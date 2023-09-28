@@ -1,0 +1,71 @@
+header li{
+    display: inline;
+    padding: 60px;
+}
+
+header{
+    background-color: yellow;
+    padding: 1px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.imagem_economia{
+    width: 400px;
+    height: 300px;
+    margin-left: 20px;
+}
+
+.imagem_politica{
+    width: 600px;
+    height: 370px;
+    margin-left: 20px;
+}
+
+h2{
+    margin-left: 20px;
+    font-size: 30px;
+    margin-bottom: 3px;
+}
+
+#texto_economia{
+    margin-left: 25px;
+    font-size: 16px;
+    padding-bottom: 35px;
+    padding-right: 150px;
+}
+
+h3{
+    margin-left: 18px;
+    font-size: 23px;
+}
+
+.lista_desafios{
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+ol{
+    padding-bottom: 20px;
+}
+
+.texto_imagem{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+.texto{
+    margin-left: 22px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+    padding-right: 150px;
+}
+
+
+
+

@@ -1,0 +1,50 @@
+header li{
+    display: inline;
+    padding: 60px;
+}
+
+header{
+    background-color: yellow;
+    padding: 1px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+form input{
+    margin-bottom: 30px;
+}
+
+form{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.feminino{
+    margin-left: 80px;
+}
+
+.masculino{
+    margin-left: 25px;
+}
+
+.indefinido{
+    margin-left: 100px;
+}
+
+
+
+.feminino_label{
+    margin-left: 30px;
+}
+
+.masculino_label{
+    margin-left: auto;
+}
+
+.indefinido_label{
+    margin-left: 30px;
+}

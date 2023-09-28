@@ -1,0 +1,36 @@
+header li{
+    display: inline;
+    padding: 60px;
+}
+
+header{
+    background-color: yellow;
+    padding: 1px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.titulo_li{
+    margin-left: 23px;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p{
+    font-size: 15px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 200px;
+    padding-bottom: 15px;
+    margin-top: 5px;
+} 
+
+img{
+    width: 750px;
+    height: 440px;
+}
